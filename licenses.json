@@ -6,5 +6,13 @@
     "client": "Lautaro Emurua",
     "activationDate": "2025-11-28",
     "notes": "Licencia de desarrollo"
+  },
+  {
+    "systemId": "84efb32435ba0e29",
+    "key": "84EF-63F5-3FD7-7942-11CF",
+    "active": true,
+    "client": "Maxi el punga",
+    "activationDate": "2025-11-29",
+    "notes": ""
   }
 ]
