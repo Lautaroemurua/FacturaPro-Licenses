@@ -1,18 +1,26 @@
 [
-  {
-    "systemId": "84efb32435ba0e29",
-    "key": "84EF-15ED-9B7D-AADC-B1BC",
-    "active": true,
-    "client": "Lautaro Emurua",
-    "activationDate": "2025-11-28",
-    "notes": "Licencia de desarrollo"
-  },
-  {
-    "systemId": "84efb32435ba0e29",
-    "key": "84EF-63F5-3FD7-7942-11CF",
-    "active": true,
-    "client": "Maxi el punga",
-    "activationDate": "2025-11-29",
-    "notes": ""
-  }
+    {
+        "systemId":  "84efb32435ba0e29",
+        "key":  "84EF-15ED-9B7D-AADC-B1BC",
+        "active":  true,
+        "client":  "Lautaro Emurua",
+        "activationDate":  "2025-11-28",
+        "notes":  "Licencia de desarrollo"
+    },
+    {
+        "systemId":  "84efb32435ba0e29",
+        "key":  "84EF-63F5-3FD7-7942-11CF",
+        "active":  true,
+        "client":  "Maxi el punga",
+        "activationDate":  "2025-11-29",
+        "notes":  ""
+    },
+    {
+        "activationDate":  "2025-12-16",
+        "systemId":  "48ab7a660a4c51c1",
+        "active":  true,
+        "client":  "Leandro Morales",
+        "key":  "48AB-64CD-E262-7C35-D40F",
+        "notes":  "Y eia?"
+    }
 ]
