@@ -8,12 +8,12 @@
         "notes": "Licencia de desarrollo"
     },
     {
-        "activationDate": "2025-12-16",
         "systemId": "48ab7a660a4c51c1",
+        "key": "48AB-48FE-A057-ADF6-F914",
         "active": true,
         "client": "Leandro Morales",
-        "key": "48AB-64CD-E262-7C35-D40F",
-        "notes": "Y eia?"
+        "activationDate": "2026-01-16",
+        "notes": "Renovación de licencia"
     },
     {
         "systemId": "3a232e5f215fb58f",
